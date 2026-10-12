@@ -1,7 +1,13 @@
 {
   "addons": {
     "ytmsp@ytmsp.local": {
-      "updates": []
+      "updates": [
+        {
+          "version": "0.1.68",
+          "update_link": "https://github.com/IttyBittyNinja/ytmsp/releases/download/Youtube/ytmsp-firefox-0.1.68.xpi",
+          "update_hash": "sha256:328048cfdd3c910359ab591f3ad201475c741fa6efe932853379817d18271f36"
+        }
+      ]
     }
   }
 }
