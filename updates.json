@@ -16,6 +16,11 @@
           "version": "0.1.87",
           "update_link": "https://github.com/IttyBittyNinja/ytmsp/releases/download/0.1.87/ytmsp-firefox-0.1.87.xpi",
           "update_hash": "sha256:e3ad1cd4f1d25e963630bcc529f76cce9d046f6316a3d6ecdd5160103cc31aa5"
+        },
+        {
+          "version": "0.1.88",
+          "update_link": "https://github.com/IttyBittyNinja/ytmsp/releases/download/0.1.88/ytmsp-firefox-0.1.88.xpi",
+          "update_hash": "sha256:853b159cc950b62e40f3a4f46155d4699217a288cc7adb9a548b1074d3c19a45"
         }
       ]
     }
